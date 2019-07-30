@@ -12,7 +12,7 @@
 
 ## 官网地址
 - [Maicloud Network（默认）](https://www.maicloud.ml) 
-- [Maicloud Network（备用1）](https://maicloud.ml) 
+- [Maicloud Network（备用1）](https://maicloud.ml?_blank) 
 - [Maicloud Network（备用2）](http://sub.maicloud.ml) 
 <a href="https://maicloud.ml" target="_blank">Maicloud Network（备用1）</a>
 
