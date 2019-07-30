@@ -1,14 +1,11 @@
 # Maicloud Network
 ## 1.最新官网地址
-https://www.maicloud.ml 
+- https://www.maicloud.ml 
+- https://maicloud.ml 
+- http://sub.maicloud.ml/
 
-https://maicloud.ml 
-
-http://sub.maicloud.ml/
-
-## 2.使用帮助 (首次配置)
-### PC
-
+## 2.使用帮助
+### [Windows版](help/windows.md)
 1.  [点击此处](http://pd6jw15xn.bkt.clouddn.com/Shadow5ocksR-4.7.0.7z)下载客户端并解压缩全部文件
 
 2.  运行ShadowsocksR-dotnet4.0.exe
