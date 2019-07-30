@@ -1,4 +1,6 @@
-# [Maicloud 网络 Wiki首页](/)
+# [Maicloud 帮助中心](/README.md)
+
+##[主页](/README.md)
 
 欢迎使用Macloud！这里提供客户端使用说明及常见问题的解决方法。
 
