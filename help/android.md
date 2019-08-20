@@ -5,7 +5,7 @@
 
 ### 首次配置
 
-1. 点击[此处下载ShadowsocksR客户端](http://cdn1.maicloud.xyz/download/ssr.apk)并安装
+1. 点击[此处下载ShadowsocksR客户端](http://static.maicloud.xyz/download/ssr.apk)并安装
 
 2. 登陆[网站](http://www.maicloud.xyz/)，在用户中心复制订阅地址
 
