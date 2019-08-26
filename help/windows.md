@@ -6,7 +6,7 @@
 ### 首次配置
 1. 登陆[网站](http://www.maicloud.xyz/)，在用户中心页面复制 订阅地址
 
-2. 下载 [Windows版客户端](http://cdn1.maicloud.xyz/download/ssr.zip)并解压（解压全部文件到同一个文件夹），运行ShadowsocksR-dotnet4.0.exe（旧版本Windows请运行ShadowsocksR-dotnet2.0.exe）
+2. 下载 [Windows版客户端](http://static.maicloud.xyz/download/ssr.zip)并解压（解压全部文件到同一个文件夹），运行ShadowsocksR-dotnet4.0.exe（旧版本Windows请运行ShadowsocksR-dotnet2.0.exe）
 
 3. 右键屏幕右下角的小飞机图标 → 服务器订阅 → SSR服务器订阅设置
 
