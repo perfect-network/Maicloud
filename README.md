@@ -9,10 +9,10 @@
 - [macOS 客户端](help/macos.md)
 - [Windows 游戏端](help/sstap.md)
 - [路由器端](help/router.md)
-- [**图片版教程**](https://www.maicloud.me/user/announcement)
+- [**图片版教程**](https://www.maicloud.vip/user/announcement)
 
 ## 官网地址
-- [Maicloud Network（默认）](https://www.maicloud.me) 
+- [Maicloud Network（默认）](https://www.maicloud.vip) 
 
 ## 常见问题
 - [服务器订阅](help/subscribe.md)
